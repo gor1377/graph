@@ -1,1 +1,1 @@
-![alt text](/screenshot.jpg)
+![alt text](/График температур.jpg)
